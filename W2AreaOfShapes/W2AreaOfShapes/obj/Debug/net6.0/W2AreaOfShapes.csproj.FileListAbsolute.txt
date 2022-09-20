@@ -1,0 +1,15 @@
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\bin\Debug\net6.0\W2AreaOfShapes.exe
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\bin\Debug\net6.0\W2AreaOfShapes.deps.json
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\bin\Debug\net6.0\W2AreaOfShapes.runtimeconfig.json
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\bin\Debug\net6.0\W2AreaOfShapes.dll
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\bin\Debug\net6.0\W2AreaOfShapes.pdb
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\W2AreaOfShapes.csproj.AssemblyReference.cache
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\W2AreaOfShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\W2AreaOfShapes.AssemblyInfoInputs.cache
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\W2AreaOfShapes.AssemblyInfo.cs
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\W2AreaOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\W2AreaOfShapes.dll
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\refint\W2AreaOfShapes.dll
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\W2AreaOfShapes.pdb
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\W2AreaOfShapes.genruntimeconfig.cache
+C:\Users\Adam.Hawkins\Source\Repos\Week2HW\W2AreaOfShapes\W2AreaOfShapes\obj\Debug\net6.0\ref\W2AreaOfShapes.dll
