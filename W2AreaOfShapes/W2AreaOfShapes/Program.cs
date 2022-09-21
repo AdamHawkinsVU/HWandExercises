@@ -85,13 +85,54 @@
                 int areaOfShape = smallSide * longSide;
                 Console.WriteLine("Your shape is a Rectangle with an area of {0}", areaOfShape);
             }
-            else
+            else if ((side1Int == side2Int && side3Int != side4Int && side3Int != side1Int && side4Int != side1Int) ||
+                (side1Int == side3Int && side2Int != side4Int && side2Int != side1Int && side4Int != side1Int) ||
+                (side1Int == side4Int && side3Int != side2Int && side2Int != side1Int && side3Int != side1Int) ||
+                (side2Int == side3Int && side1Int != side4Int && side4Int != side2Int && side1Int != side2Int) ||
+                (side2Int == side4Int && side1Int != side2Int && side4Int != side1Int && side4Int != side2Int) ||
+                (side3Int == side4Int && side1Int != side2Int && side2Int != side3Int && side1Int != side3Int))
             {
                 Console.WriteLine("How many inches tall is your shape?");
                 string heightInput = Console.ReadLine();
                 int shapeHeight = Convert.ToInt32(heightInput);
 
-                Console.WriteLine("Forget this! trapezoids are difficult.");
+                if (side1Int == side2Int)
+                {
+                    double areaOfShape = .5 * (side3Int + side4Int) * shapeHeight;
+                    Console.WriteLine("The area of this trapezoid is {0}.", shapeHeight);
+                }
+
+                else if (side1Int == side3Int)
+                {
+                    double areaOfShape = .5 * (side2Int + side4Int) * shapeHeight;
+                    Console.WriteLine("The area of this trapezoid is {0}.", shapeHeight);
+                }
+
+                else if (side1Int == side4Int)
+                {
+                    double areaOfShape = .5 * (side3Int + side2Int) * shapeHeight;
+                    Console.WriteLine("The area of this trapezoid is {0}.", shapeHeight);
+                }
+
+                else if (side2Int == side3Int)
+                {
+                    double areaOfShape = .5 * (side1Int + side4Int) * shapeHeight;
+                    Console.WriteLine("The area of this trapezoid is {0}.", shapeHeight);
+                }
+                
+                else if (side2Int == side4Int)
+                {
+                    double areaOfShape = .5 * (side3Int + side1Int) * shapeHeight;
+                    Console.WriteLine("The area of this trapezoid is {0}.", shapeHeight);
+                }
+
+                else if (side3Int == side4Int)
+                {
+                    double areaOfShape = .5 * (side1Int + side2Int) * shapeHeight;
+                    Console.WriteLine("The area of this trapezoid is {0}.", shapeHeight);
+                }
+                else
+                { Console.WriteLine("error"); }
             }
         }
         else if (shapeChoice == "circle")
