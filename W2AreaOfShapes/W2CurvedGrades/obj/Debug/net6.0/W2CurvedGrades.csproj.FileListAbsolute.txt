@@ -1,0 +1,15 @@
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\bin\Debug\net6.0\W2CurvedGrades.exe
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\bin\Debug\net6.0\W2CurvedGrades.deps.json
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\bin\Debug\net6.0\W2CurvedGrades.runtimeconfig.json
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\bin\Debug\net6.0\W2CurvedGrades.dll
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\bin\Debug\net6.0\W2CurvedGrades.pdb
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\W2CurvedGrades.csproj.AssemblyReference.cache
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\W2CurvedGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\W2CurvedGrades.AssemblyInfoInputs.cache
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\W2CurvedGrades.AssemblyInfo.cs
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\W2CurvedGrades.csproj.CoreCompileInputs.cache
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\W2CurvedGrades.dll
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\refint\W2CurvedGrades.dll
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\W2CurvedGrades.pdb
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\W2CurvedGrades.genruntimeconfig.cache
+C:\Users\Adam.Hawkins\source\repos\Week2HW\W2AreaOfShapes\W2CurvedGrades\obj\Debug\net6.0\ref\W2CurvedGrades.dll
