@@ -5,7 +5,7 @@
         string accountNum = "8675309";
         string accountPin = "1337";
 
-        double accountBalance = 1;
+        decimal accountBalance = 0;
 
         int attemptCount = 1;
         bool accessGranted = false;
@@ -58,35 +58,67 @@
         {
             Console.WriteLine("What would you like to do? \nDeposit \nWithdraw \nExit");
             string menuChoice = Console.ReadLine();
-            menuChoice.ToLower();
 
-            if (menuChoice == "exit")
+            if (menuChoice.ToLower() == "exit")
             {
                 Console.WriteLine("Thank you for banking with us today. Have a pleasant day.");
                 break;
             }
 
-            else if (menuChoice == "deposit")
+            else if (menuChoice.ToLower() == "deposit")
             {
-                Console.WriteLine("How much would you like to deposit?");
-                double depositAmount = Convert.ToInt32(Console.ReadLine());
+                try
+                {
+                    Console.WriteLine("How much would you like to deposit?");
+                    decimal depositAmount = Convert.ToDecimal(Console.ReadLine());
 
-                accountBalance = accountBalance + depositAmount;
+                    accountBalance = accountBalance + depositAmount;
 
-                Console.WriteLine("{0} has been added to account {1}", depositAmount.ToString("C"), accountNum);
-                continue;
+                    Console.WriteLine("{0} has been added to account {1}", depositAmount.ToString("C"), accountNum);
+                    Thread.Sleep(1000);
+                    continue;
+                }
+
+                catch (Exception ex)
+                { Console.WriteLine("Please enter a valid ammount."); }
+                    
             }
 
-            else if (menuChoice == "withdraw")
+            else if (menuChoice.ToLower() == "withdraw")
             {
-                Console.WriteLine("How much would you like to withdraw?");
-                double withdrawAmount = Convert.ToInt32(Console.ReadLine());
-                accountBalance = accountBalance - withdrawAmount;
+                try
+                {
+                    Console.WriteLine("How much would you like to withdraw?");
+                    decimal withdrawAmount = Convert.ToDecimal(Console.ReadLine());
 
-                Console.WriteLine("{0} has been withdrawn from account {1}. Your Balance is now {2}.", withdrawAmount.ToString("C"), accountNum, accountBalance.ToString("C"));
+                    if (withdrawAmount > accountBalance)
+                    {
+                        Console.WriteLine("You do not have enough funds to withdraw that ammount.");
+                        Thread.Sleep(1000);
+                        continue;
+                    }
+                    else
+                    {
+                        accountBalance = accountBalance - withdrawAmount;
+                    }
+
+                    Console.WriteLine("{0} has been withdrawn from account {1}. Your Balance is now {2}.", withdrawAmount.ToString("C"), accountNum, accountBalance.ToString("C"));
+                    Thread.Sleep(1000);
+                    continue;
+                }
+
+                catch (Exception ex)
+                {
+                    Console.WriteLine("Please enter a valid ammount.");
+                }
+                    
+            }
+            else
+            {
+                Console.WriteLine("Please Enter a valid option.");
+                Thread.Sleep(1000);
                 continue;
             }
-
         }
     }
 }
