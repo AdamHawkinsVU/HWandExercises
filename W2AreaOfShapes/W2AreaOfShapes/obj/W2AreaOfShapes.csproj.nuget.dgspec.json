@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Adam.Hawkins\\source\\repos\\Week2HW\\W2AreaOfShapes\\W2AreaOfShapes\\W2AreaOfShapes.csproj": {}
+    "C:\\Users\\Adam.Hawkins\\Source\\Repos\\HWandExercises\\W2AreaOfShapes\\W2AreaOfShapes\\W2AreaOfShapes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Adam.Hawkins\\source\\repos\\Week2HW\\W2AreaOfShapes\\W2AreaOfShapes\\W2AreaOfShapes.csproj": {
+    "C:\\Users\\Adam.Hawkins\\Source\\Repos\\HWandExercises\\W2AreaOfShapes\\W2AreaOfShapes\\W2AreaOfShapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Adam.Hawkins\\source\\repos\\Week2HW\\W2AreaOfShapes\\W2AreaOfShapes\\W2AreaOfShapes.csproj",
+        "projectUniqueName": "C:\\Users\\Adam.Hawkins\\Source\\Repos\\HWandExercises\\W2AreaOfShapes\\W2AreaOfShapes\\W2AreaOfShapes.csproj",
         "projectName": "W2AreaOfShapes",
-        "projectPath": "C:\\Users\\Adam.Hawkins\\source\\repos\\Week2HW\\W2AreaOfShapes\\W2AreaOfShapes\\W2AreaOfShapes.csproj",
+        "projectPath": "C:\\Users\\Adam.Hawkins\\Source\\Repos\\HWandExercises\\W2AreaOfShapes\\W2AreaOfShapes\\W2AreaOfShapes.csproj",
         "packagesPath": "C:\\Users\\Adam.Hawkins\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Adam.Hawkins\\source\\repos\\Week2HW\\W2AreaOfShapes\\W2AreaOfShapes\\obj\\",
+        "outputPath": "C:\\Users\\Adam.Hawkins\\Source\\Repos\\HWandExercises\\W2AreaOfShapes\\W2AreaOfShapes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adam.Hawkins\\AppData\\Roaming\\NuGet\\NuGet.Config",

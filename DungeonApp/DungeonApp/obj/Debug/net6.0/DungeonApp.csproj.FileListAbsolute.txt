@@ -1,0 +1,15 @@
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\bin\Debug\net6.0\DungeonApp.exe
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\bin\Debug\net6.0\DungeonApp.deps.json
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\bin\Debug\net6.0\DungeonApp.runtimeconfig.json
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\bin\Debug\net6.0\DungeonApp.dll
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\bin\Debug\net6.0\DungeonApp.pdb
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\DungeonApp.csproj.AssemblyReference.cache
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\DungeonApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\DungeonApp.AssemblyInfoInputs.cache
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\DungeonApp.AssemblyInfo.cs
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\DungeonApp.csproj.CoreCompileInputs.cache
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\DungeonApp.dll
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\refint\DungeonApp.dll
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\DungeonApp.pdb
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\DungeonApp.genruntimeconfig.cache
+C:\Users\Adam.Hawkins\source\repos\HWandExercises\DungeonApp\DungeonApp\obj\Debug\net6.0\ref\DungeonApp.dll
